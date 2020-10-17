@@ -29,7 +29,7 @@
 		"browserify": "browserify -r mproj -r buffer -r iconv-lite -r fs -r flatbush -r rw -r path -o www/modules.js",
 		"watch": "rollup --config --watch"
 	},
-	"main": "./mapshaper.js",
+	"main": "./index.js",
 	"files": [
 		"/bin/**",
 		"/www/**",
