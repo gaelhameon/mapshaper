@@ -4,8 +4,6 @@ node_modules
 npm-debug.log
 .npmignore
 .jshintrc
-/www/mapshaper-gui.js
-/www/mapshaper.js
 /www/node_modules.js
 /build/*.js
 release*
